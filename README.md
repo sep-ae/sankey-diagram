@@ -1,4 +1,3 @@
-```markdown
 # Sankey Diagram Generator
 
 A simple web application to generate Sankey diagrams from stock transaction data. This tool helps visualize broker transactions effectively.
