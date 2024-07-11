@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif; 
+    line-height: 1.6;
+    background-color: #0F67B1; 
+    color: #FFFFFF; 
+}
+
+h1, h5 {
+    font-family: 'Poppins', sans-serif; 
+    color: #FFFFFF; 
+}
+
+.card {
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    background-color: #3FA2F6; 
+}
+
+#sankey-diagram {
+    height: 600px;
+    background-color: #FFFFFF; 
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.btn-primary {
+    background-color: #FFC7ED;
+    border-color: #FFC7ED; 
+    color: #343a40; 
+}
+
+.btn-primary:hover {
+    background-color: #F6A8D6; 
+    border-color: #F6A8D6; 
+    color: #343a40; 
+}
