@@ -79,4 +79,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ by [sep-ae](https://github.com/sep-ae)
 ```
 
-Anda dapat menyesuaikan bagian "Example Data Format" dan lainnya sesuai dengan kebutuhan spesifik proyek Anda. Pastikan untuk menyimpan file ini sebagai `README.md` di root direktori proyek Anda.
